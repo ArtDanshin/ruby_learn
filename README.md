@@ -1,1 +1,1 @@
-# ruby_learn
+# Обучение Ruby и Ruby on Rails
